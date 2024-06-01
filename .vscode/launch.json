@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MyEchoClient",
+            "request": "launch",
+            "mainClass": "bgu.spl.net.impl.stomp.MyEchoClient",
+            "projectName": "server"
+        },
+        {
+            "type": "java",
+            "name": "Launch StompServer",
+            "request": "launch",
+            "mainClass": "bgu.spl.net.impl.stomp.StompServer",
+            "projectName": "server"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyEchoClient",
+            "request": "launch",
+            "mainClass": "bgu.spl.net.impl.stomp.MyEchoClient",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch StompServer",
+            "request": "launch",
+            "mainClass": "bgu.spl.net.impl.stomp.StompServer",
+            "projectName": "demo"
+        },
+        {
+            "name": "C/C++: g++ build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/SPL231-Assignment3-student-template/client",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/SPL231-Assignment3-student-template/client",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++ build active file",
+            "miDebuggerPath": "/usr/bin/gdb"
+        }
+    ],
+    "version": "2.0.0"
+}
