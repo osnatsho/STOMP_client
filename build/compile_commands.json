@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/StompClient.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/StompClient.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/StompClient.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/ConnectionHandler.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/ConnectionHandler.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/ConnectionHandler.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/event.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/event.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/event.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/keyboardInputSend.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/keyboardInputSend.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/keyboardInputSend.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/MessageFactory.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/MessageFactory.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/MessageFactory.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/ResponseManager.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/ResponseManager.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/ResponseManager.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/socketReader.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/socketReader.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/socketReader.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/StateControler.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/StateControler.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/StateControler.cpp"
+},
+{
+  "directory": "/home/spl211/Desktop/SPL231-Assignment3-template/build",
+  "command": "/usr/bin/g++   -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/. -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/include -I/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src   -std=c++11 -pthread -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/client.dir/src/User.cpp.o -c /home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/User.cpp",
+  "file": "/home/spl211/Desktop/SPL231-Assignment3-template/SPL231-Assignment3-student-template/client/src/User.cpp"
+}
+]
